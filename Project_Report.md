@@ -4,6 +4,8 @@ Rowan, Benjamin J. / Biomedical Data Science / 24 April, 2026
 
 [Presentation Video](https://drive.google.com/file/d/1j3WEbzeoEqMoXy85x1RqSxcWHqGr4Qzt/view?usp=drive_link)
 
+[Git_Repo](https://github.com/benrowan99-collab/Biomedical-Course-Project.git)
+
 ### Summary
 
 Predicting any portion of the stock market is extremely elusive yet highly desirable by professional brokers and amateur day-traders alike. In this project, I used linear regression of multiple market indices to predict SP-500 gains or losses for the following month. 
