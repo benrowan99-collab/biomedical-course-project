@@ -1,6 +1,8 @@
-# **Course Project**
+## **Course Project**
 
 Rowan, Benjamin J. / Biomedical Data Science / 24 April, 2026
+
+[Presentation Video](https://drive.google.com/file/d/1j3WEbzeoEqMoXy85x1RqSxcWHqGr4Qzt/view?usp=drive_link)
 
 ### Summary
 
@@ -21,6 +23,6 @@ By selecting various combinations of predictors, users can readily see which ind
 ### Results
 This project was extremely useful in developing python and streamlit skills. I realized my vision of having a market predictor with multiple options for inputs. Further development of this app could include additional predictors (including other stocks and ETFs) and hypothetical ROI given shares sold/bought for each directional prediction. 
 
-*Note:* Unfortunately, while the coding was a success, the prediction model was not. It is extremely difficult to predict the market based on such large indicators. The p-value for all of my predictors except one (gold price) was significantly higher than 0.05, indicating statistical insignificance.
+*Note:* While the coding was a success, the accuracy of the prediction model was not. It is extremely difficult to predict the market based on such large indicators. This was expected at the start.
 
 
